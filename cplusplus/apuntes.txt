@@ -1,0 +1,5 @@
+para crear una nueva carpeta: mkdir nombre_carpeta
+para compilar se hace: gcc nombre_programa
+para ejecutar se hace: ./a.out
+crar archivo: touch nombre_archivo.extension
+abrir con vscode: code nombre_archivo.extension &
