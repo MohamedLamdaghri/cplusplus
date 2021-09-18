@@ -43,7 +43,7 @@ void Alumno::mostrarAlumno(){
 }
 
 int main(){
-	Alumno alu1("Malika", 15,"x2995411y", 9,2);
+	Alumno alu1("Malika", 15,"456u", 9,2);
 	alu1.mostrarAlumno();
 	//my name is mohamed lamdaghri and im gonna be the best engineer out there
 	//i promise
